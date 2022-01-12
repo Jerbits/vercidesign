@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is a test package",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "button": "^0.0.0"
+    "button": "^0.0.1"
   }
 }
