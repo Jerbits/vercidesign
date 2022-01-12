@@ -1,6 +1,6 @@
 {
   "name": "vercidesign",
-  "private": true,
+  "private": false,
   "scripts": {
     "make:component": "hygen package new"
   },
