@@ -1,6 +1,6 @@
 {
   "name": "@jerbits/button",
-  "version": "0.0.4",
+  "version": "0.0.3",
   "description": "This is a button component",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "gitHead": "83e6e93abc6f996590697db88644734ef38a9066"
 }
