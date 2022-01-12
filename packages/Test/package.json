@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "version": "0.0.1",
+  "name": "@jerbits/test",
+  "version": "0.0.2",
   "description": "This is a test package",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "button": "^0.0.1"
-  }
+  },
+  "gitHead": "0dd1b05a6a2c3ef5bce75c6eead7249e605d3dfe"
 }
