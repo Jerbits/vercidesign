@@ -2,7 +2,7 @@
   "name": "vercidesign",
   "private": true,
   "scripts": {
-    "make:component": "yo ./generators/component/index.js"
+    "make:component": "hygen package new"
   },
   "workspaces": [
     "packages/*"
